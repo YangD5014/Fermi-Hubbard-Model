@@ -1,0 +1,241 @@
+logger init done!
+正在初始化算算符池...
+Fermi Hubbard HamiltonianPool Init done!N-site=8|length=24
+-----------------第1/个时间步长,当前时间是0.0-------------------
+目前时间是0.01
+exact_energy=0.19999999999999998
+本时间步长内的第1次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0.]
+Iter=1|operator=['IIIIIYZY']｜Distance=3.9999999999999964
+当前的算符是['IIIIIXZX']|当前的参数是[0.]
+Iter=1|operator=['IIIIIXZX']｜Distance=3.9999999999999964
+当前的算符是['IIIYZYII']|当前的参数是[0.]
+Iter=1|operator=['IIIYZYII']｜Distance=2.0000019999986645
+当前的算符是['IIIXZXII']|当前的参数是[0.]
+Iter=1|operator=['IIIXZXII']｜Distance=2.0000019999986645
+当前的算符是['IYZYIIII']|当前的参数是[0.]
+Iter=1|operator=['IYZYIIII']｜Distance=3.9999999999999964
+当前的算符是['IXZXIIII']|当前的参数是[0.]
+Iter=1|operator=['IXZXIIII']｜Distance=3.9999999999999964
+当前的算符是['IIIIYZYI']|当前的参数是[0.]
+Iter=1|operator=['IIIIYZYI']｜Distance=3.9999999999999964
+当前的算符是['IIIIXZXI']|当前的参数是[0.]
+Iter=1|operator=['IIIIXZXI']｜Distance=3.9999999999999964
+当前的算符是['IIYZYIII']|当前的参数是[0.]
+Iter=1|operator=['IIYZYIII']｜Distance=2.0000019999986645
+当前的算符是['IIXZXIII']|当前的参数是[0.]
+Iter=1|operator=['IIXZXIII']｜Distance=2.0000019999986645
+当前的算符是['YZYIIIII']|当前的参数是[0.]
+Iter=1|operator=['YZYIIIII']｜Distance=3.9999999999999964
+当前的算符是['XZXIIIII']|当前的参数是[0.]
+Iter=1|operator=['XZXIIIII']｜Distance=3.9999999999999964
+当前的算符是['IIIIIIZI']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIZI']｜Distance=4.0
+当前的算符是['IIIIIIIZ']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIIZ']｜Distance=4.0
+当前的算符是['IIIIIIZZ']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIZZ']｜Distance=4.0
+当前的算符是['IIIIZIII']|当前的参数是[0.]
+Iter=1|operator=['IIIIZIII']｜Distance=4.0
+当前的算符是['IIIIIZII']|当前的参数是[0.]
+Iter=1|operator=['IIIIIZII']｜Distance=4.0
+当前的算符是['IIIIZZII']|当前的参数是[0.]
+Iter=1|operator=['IIIIZZII']｜Distance=4.0
+当前的算符是['IIZIIIII']|当前的参数是[0.]
+Iter=1|operator=['IIZIIIII']｜Distance=4.0
+当前的算符是['IIIZIIII']|当前的参数是[0.]
+Iter=1|operator=['IIIZIIII']｜Distance=4.0
+当前的算符是['IIZZIIII']|当前的参数是[0.]
+Iter=1|operator=['IIZZIIII']｜Distance=4.0
+当前的算符是['ZIIIIIII']|当前的参数是[0.]
+Iter=1|operator=['ZIIIIIII']｜Distance=4.0
+当前的算符是['IZIIIIII']|当前的参数是[0.]
+Iter=1|operator=['IZIIIIII']｜Distance=4.0
+当前的算符是['ZZIIIIII']|当前的参数是[0.]
+Iter=1|operator=['ZZIIIIII']｜Distance=4.0
+迭代1完成✅3 -th has been picked!Mclachlan Distance =2.0000019999986645
+迭代1继续🔄!Mclachlan Distance =2.0000019999986645/0.001
+本时间步长内的第2次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIYZY']｜Distance=2.0000019999986627
+当前的算符是['IIIIIXZX']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIXZX']｜Distance=2.0000019999986645
+当前的算符是['IIIYZYII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIYZYII']｜Distance=2.0000009998872272
+当前的算符是['IIIXZXII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIXZXII']｜Distance=2.0000009998872272
+当前的算符是['IYZYIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IYZYIIII']｜Distance=2.0000019999986645
+当前的算符是['IXZXIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IXZXIIII']｜Distance=2.0000019999986645
+当前的算符是['IIIIYZYI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIYZYI']｜Distance=2.0000019999986645
+当前的算符是['IIIIXZXI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIXZXI']｜Distance=2.0000019999986645
+当前的算符是['IIYZYIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIYZYIII']｜Distance=3.9999973333593175e-06
+当前的算符是['IIXZXIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIXZXIII']｜Distance=3.9999973333593175e-06
+当前的算符是['YZYIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['YZYIIIII']｜Distance=2.0000019999986645
+当前的算符是['XZXIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['XZXIIIII']｜Distance=2.0000019999986645
+当前的算符是['IIIIIIZI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIZI']｜Distance=2.0000019999986645
+当前的算符是['IIIIIIIZ']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIIZ']｜Distance=2.0000019999986645
+当前的算符是['IIIIIIZZ']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIZZ']｜Distance=2.0000019999986645
+当前的算符是['IIIIZIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIZIII']｜Distance=2.0000019999986645
+当前的算符是['IIIIIZII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIZII']｜Distance=2.0000019999986645
+当前的算符是['IIIIZZII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIZZII']｜Distance=2.0000019999986645
+当前的算符是['IIZIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIZIIIII']｜Distance=2.0000019999986645
+当前的算符是['IIIZIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIZIIII']｜Distance=2.0000019999986645
+当前的算符是['IIZZIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIZZIIII']｜Distance=2.0000019999986645
+当前的算符是['ZIIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['ZIIIIIII']｜Distance=2.0000019999986645
+当前的算符是['IZIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IZIIIIII']｜Distance=2.0000019999986645
+当前的算符是['ZZIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['ZZIIIIII']｜Distance=2.0000019999986645
+迭代2完成✅9 -th has been picked!Mclachlan Distance =3.9999973333593175e-06
+迭代2结束✅!Mclachlan Distance =3.9999973333593175e-06/0.001|满足停止要求😉
+本次的时间步长是=0.01|最大变化值=0.9999991666671864
+时间步长已经更新=0.05|0.050000041666675404
+本次时间步长结束｜共选取2个算符:[2, 8]｜最优参数为[-0.00999999 -0.00999999]｜Mclachlan Distance=3.9999973333593175e-06
+|瞬时精确能量=0.19999999999999998|瞬时变分能量=0.19998000269984886|瞬时能量误差=-1.999730015112e-05|精确与变分态重合度=0.9999999899504105
+-----------------第2个时间步长｜目前时间是0.060000000000000005/10.0-------------------
+迭代0结束✅!Mclachlan Distance =0.0008079706580290669/0.001|满足停止要求😉
+参数优化结果如下:[-0.05999995 -0.05999995]|最大的参数=0.9999991666671869
+时间步长已经更新=0.05|0.05000004166667538
+本次时间步长结束｜共选取0个算符:[2, 8]｜最优参数为[-0.05999995 -0.05999995]｜Mclachlan Distance=0.0008079706580290669|瞬时精确能量=0.20000000000000007|瞬时变分能量=0.19928345055981264|瞬时能量误差=-0.0007165494401874251|精确与变分态重合度=0.9999869939767821｜目前参数规模=2
+保存快照: ./AVQDS-SNAPSHOT-10-10 03:29/3.pkl
+-----------------第3个时间步长｜目前时间是0.11000000000000001/10.0-------------------
+本时间步长内的第1次迭代
+Iter=1|operator=['IIIIIYZY']|Distance=0.028885833951675544
+Iter=1|operator=['IIIIIXZX']|Distance=0.028885833951675544
+Iter=1|operator=['IIIYZYII']|Distance=0.02891069170384153
+Iter=1|operator=['IIIXZXII']|Distance=0.028910691587440862
+Iter=1|operator=['IYZYIIII']|Distance=0.028885833951675544
+Iter=1|operator=['IXZXIIII']|Distance=0.028885833951675544
+Iter=1|operator=['IIIIYZYI']|Distance=0.028885833951675544
+Iter=1|operator=['IIIIXZXI']|Distance=0.028885833951675544
+Iter=1|operator=['IIYZYIII']|Distance=0.028910691820272394
+Iter=1|operator=['IIXZXIII']|Distance=0.028910691703868174
+Iter=1|operator=['YZYIIIII']|Distance=0.028885833951675544
+Iter=1|operator=['XZXIIIII']|Distance=0.028885833951675544
+Iter=1|operator=['IIIIIIZI']|Distance=0.028911691698873643
+Iter=1|operator=['IIIIIIIZ']|Distance=0.028911691698873643
+Iter=1|operator=['IIIIIIZZ']|Distance=0.028911691698873643
+Iter=1|operator=['IIIIZIII']|Distance=0.02884106856905788
+Iter=1|operator=['IIIIIZII']|Distance=0.02884106856905788
+Iter=1|operator=['IIIIZZII']|Distance=0.028769413696862145
+Iter=1|operator=['IIZIIIII']|Distance=0.02884106856905788
+Iter=1|operator=['IIIZIIII']|Distance=0.02884106856905788
+Iter=1|operator=['IIZZIIII']|Distance=0.028769413696862145
+Iter=1|operator=['ZIIIIIII']|Distance=0.028911691698873643
+Iter=1|operator=['IZIIIIII']|Distance=0.028911691698873643
+Iter=1|operator=['ZZIIIIII']|Distance=0.028911691698873643
+迭代1完成✅18 -th has been picked!Mclachlan Distance =0.028769413696862145
+迭代1继续🔄!Mclachlan Distance =0.028769413696862145/0.001|不满足停止要求😓
+本时间步长内的第2次迭代
+Iter=2|operator=['IIIIIYZY']|Distance=0.02874355594966449
+Iter=2|operator=['IIIIIXZX']|Distance=0.02874355594966449
+Iter=2|operator=['IIIYZYII']|Distance=0.02876841381824491
+Iter=2|operator=['IIIXZXII']|Distance=0.028768413585427588
+Iter=2|operator=['IYZYIIII']|Distance=0.02874355594966449
+Iter=2|operator=['IXZXIIII']|Distance=0.02874355594966449
+Iter=2|operator=['IIIIYZYI']|Distance=0.02874355594966449
+Iter=2|operator=['IIIIXZXI']|Distance=0.02874355594966449
+Iter=2|operator=['IIYZYIII']|Distance=0.028768413701845574
+Iter=2|operator=['IIXZXIII']|Distance=0.028768413818272442
+Iter=2|operator=['YZYIIIII']|Distance=0.02874355594966449
+Iter=2|operator=['XZXIIIII']|Distance=0.02874355594966449
+Iter=2|operator=['IIIIIIZI']|Distance=0.028769413696862145
+Iter=2|operator=['IIIIIIIZ']|Distance=0.028769413696862145
+Iter=2|operator=['IIIIIIZZ']|Distance=0.028769413696862145
+Iter=2|operator=['IIIIZIII']|Distance=0.02876941369668984
+Iter=2|operator=['IIIIIZII']|Distance=0.02876941369668984
+Iter=2|operator=['IIIIZZII']|Distance=0.02876941119699339
+Iter=2|operator=['IIZIIIII']|Distance=0.02876941369668984
+Iter=2|operator=['IIIZIIII']|Distance=0.02876941369668984
+Iter=2|operator=['IIZZIIII']|Distance=0.02876941119699339
+Iter=2|operator=['ZIIIIIII']|Distance=0.028769413696862145
+Iter=2|operator=['IZIIIIII']|Distance=0.028769413696862145
+Iter=2|operator=['ZZIIIIII']|Distance=0.028769413696862145
+迭代2完成✅1 -th has been picked!Mclachlan Distance =0.02874355594966449
+迭代2继续🔄!Mclachlan Distance =0.02874355594966449/0.001|不满足停止要求😓
+本时间步长内的第3次迭代
+Iter=3|operator=['IIIIIYZY']|Distance=0.028743555936732612
+Iter=3|operator=['IIIIIXZX']|Distance=0.021579061383226517
+Iter=3|operator=['IIIYZYII']|Distance=0.028742555954639926
+Iter=3|operator=['IIIXZXII']|Distance=0.02874255583824148
+Iter=3|operator=['IYZYIIII']|Distance=0.028717698202466835
+Iter=3|operator=['IXZXIIII']|Distance=0.028717698202466835
+Iter=3|operator=['IIIIYZYI']|Distance=0.028717698202466835
+Iter=3|operator=['IIIIXZXI']|Distance=0.028717698202466835
+Iter=3|operator=['IIYZYIII']|Distance=0.028742555838233486
+Iter=3|operator=['IIXZXIII']|Distance=0.028742556071065017
+Iter=3|operator=['YZYIIIII']|Distance=0.028717698202466835
+Iter=3|operator=['XZXIIIII']|Distance=0.028717698202466835
+Iter=3|operator=['IIIIIIZI']|Distance=0.02874355594966449
+Iter=3|operator=['IIIIIIIZ']|Distance=0.02874355594966449
+Iter=3|operator=['IIIIIIZZ']|Distance=0.02874355594966449
+Iter=3|operator=['IIIIZIII']|Distance=0.028743555949492183
+Iter=3|operator=['IIIIIZII']|Distance=0.028743555949492183
+Iter=3|operator=['IIIIZZII']|Distance=0.028743553449794845
+Iter=3|operator=['IIZIIIII']|Distance=0.028743555949492183
+Iter=3|operator=['IIIZIIII']|Distance=0.028743555949492183
+Iter=3|operator=['IIZZIIII']|Distance=0.028743553449795733
+Iter=3|operator=['ZIIIIIII']|Distance=0.02874355594966449
+Iter=3|operator=['IZIIIIII']|Distance=0.02874355594966449
+Iter=3|operator=['ZZIIIIII']|Distance=0.02874355594966449
+迭代3完成✅2 -th has been picked!Mclachlan Distance =0.021579061383226517
+迭代3继续🔄!Mclachlan Distance =0.021579061383226517/0.001|不满足停止要求😓
+本时间步长内的第4次迭代
+Iter=4|operator=['IIIIIYZY']|Distance=0.021578811443933255
+Iter=4|operator=['IIIIIXZX']|Distance=0.021578811443934143
+Iter=4|operator=['IIIYZYII']|Distance=0.02157806138821705
+Iter=4|operator=['IIIXZXII']|Distance=0.021578061504620827
+Iter=4|operator=['IYZYIIII']|Distance=0.02155320363602975
+Iter=4|operator=['IXZXIIII']|Distance=0.02155320363602975
+Iter=4|operator=['IIIIYZYI']|Distance=0.02155320363602975
+Iter=4|operator=['IIIIXZXI']|Distance=0.02155320363602975
+Iter=4|operator=['IIYZYIII']|Distance=0.021578061388206393
+Iter=4|operator=['IIXZXIII']|Distance=0.02157806138821705
+Iter=4|operator=['YZYIIIII']|Distance=0.02155320363602975
+Iter=4|operator=['XZXIIIII']|Distance=0.02155320363602975
+Iter=4|operator=['IIIIIIZI']|Distance=0.021579061383226517
+Iter=4|operator=['IIIIIIIZ']|Distance=0.021579061383226517
+Iter=4|operator=['IIIIIIZZ']|Distance=0.021579061383226517
+Iter=4|operator=['IIIIZIII']|Distance=0.021579061383053322
+Iter=4|operator=['IIIIIZII']|Distance=0.021579061383053322
+Iter=4|operator=['IIIIZZII']|Distance=0.02157905888335776
+Iter=4|operator=['IIZIIIII']|Distance=0.021579061383053322
+Iter=4|operator=['IIIZIIII']|Distance=0.021579061383053322
+Iter=4|operator=['IIZZIIII']|Distance=0.02157905888335776
+Iter=4|operator=['ZIIIIIII']|Distance=0.021579061383226517
+Iter=4|operator=['IZIIIIII']|Distance=0.021579061383226517
+Iter=4|operator=['ZZIIIIII']|Distance=0.021579061383226517
+迭代4完成✅5 -th has been picked!Mclachlan Distance =0.02155320363602975
+迭代4继续🔄!Mclachlan Distance =0.02155320363602975/0.001|不满足停止要求😓
+本时间步长内的第5次迭代
+Iter=5|operator=['IIIIIYZY']|Distance=0.021552953696736488
+Iter=5|operator=['IIIIIXZX']|Distance=0.021552953696739152
+Iter=5|operator=['IIIYZYII']|Distance=0.021552203757437383
+Iter=5|operator=['IIIXZXII']|Distance=0.021552203524588087
+Iter=5|operator=['IYZYIIII']|Distance=0.02155320362309876
+Iter=5|operator=['IXZXIIII']|Distance=0.014388709069592664
+Iter=5|operator=['IIIIYZYI']|Distance=0.021527345888832983
+Iter=5|operator=['IIIIXZXI']|Distance=0.021527345888832983
+Iter=5|operator=['IIYZYIII']|Distance=0.021552203641023837
+Iter=5|operator=['IIXZXIII']|Distance=0.021552203641028278
+Iter=5|operator=['YZYIIIII']|Distance=0.021527345888832983
+Iter=5|operator=['XZXIIIII']|Distance=0.021527345888832983
+Iter=5|operator=['IIIIIIZI']|Distance=0.02155320363602975
