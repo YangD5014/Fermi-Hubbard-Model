@@ -1,0 +1,246 @@
+logger init done!
+正在初始化算算符池...
+Fermi Hubbard HamiltonianPool Init done!N-site=8|length=28
+-----------------第1/个时间步长,当前时间是0.0-------------------
+目前时间是0.01
+exact_energy=0.20000000000000007
+本时间步长内的第1次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0.]
+Iter=1|operator=['IIIIIYZY']｜Distance=7.999999999999993
+当前的算符是['IIIIIXZX']|当前的参数是[0.]
+Iter=1|operator=['IIIIIXZX']｜Distance=7.999999999999993
+当前的算符是['IIIYZYII']|当前的参数是[0.]
+Iter=1|operator=['IIIYZYII']｜Distance=6.000001999998661
+当前的算符是['IIIXZXII']|当前的参数是[0.]
+Iter=1|operator=['IIIXZXII']｜Distance=6.000001999998661
+当前的算符是['IYZYIIII']|当前的参数是[0.]
+Iter=1|operator=['IYZYIIII']｜Distance=7.999999999999993
+当前的算符是['IXZXIIII']|当前的参数是[0.]
+Iter=1|operator=['IXZXIIII']｜Distance=7.999999999999993
+当前的算符是['IYZZZZZY']|当前的参数是[0.]
+Iter=1|operator=['IYZZZZZY']｜Distance=6.000001999998661
+当前的算符是['IXZZZZZX']|当前的参数是[0.]
+Iter=1|operator=['IXZZZZZX']｜Distance=6.000001999998661
+当前的算符是['IIIIYZYI']|当前的参数是[0.]
+Iter=1|operator=['IIIIYZYI']｜Distance=7.999999999999993
+当前的算符是['IIIIXZXI']|当前的参数是[0.]
+Iter=1|operator=['IIIIXZXI']｜Distance=7.999999999999993
+当前的算符是['IIYZYIII']|当前的参数是[0.]
+Iter=1|operator=['IIYZYIII']｜Distance=6.000001999998661
+当前的算符是['IIXZXIII']|当前的参数是[0.]
+Iter=1|operator=['IIXZXIII']｜Distance=6.000001999998661
+当前的算符是['YZYIIIII']|当前的参数是[0.]
+Iter=1|operator=['YZYIIIII']｜Distance=7.999999999999993
+当前的算符是['XZXIIIII']|当前的参数是[0.]
+Iter=1|operator=['XZXIIIII']｜Distance=7.999999999999993
+当前的算符是['YZZZZZYI']|当前的参数是[0.]
+Iter=1|operator=['YZZZZZYI']｜Distance=6.000001999998661
+当前的算符是['XZZZZZXI']|当前的参数是[0.]
+Iter=1|operator=['XZZZZZXI']｜Distance=6.000001999998661
+当前的算符是['IIIIIIZI']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIZI']｜Distance=8.0
+当前的算符是['IIIIIIIZ']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIIZ']｜Distance=8.0
+当前的算符是['IIIIIIZZ']|当前的参数是[0.]
+Iter=1|operator=['IIIIIIZZ']｜Distance=8.0
+当前的算符是['IIIIZIII']|当前的参数是[0.]
+Iter=1|operator=['IIIIZIII']｜Distance=8.0
+当前的算符是['IIIIIZII']|当前的参数是[0.]
+Iter=1|operator=['IIIIIZII']｜Distance=8.0
+当前的算符是['IIIIZZII']|当前的参数是[0.]
+Iter=1|operator=['IIIIZZII']｜Distance=8.0
+当前的算符是['IIZIIIII']|当前的参数是[0.]
+Iter=1|operator=['IIZIIIII']｜Distance=8.0
+当前的算符是['IIIZIIII']|当前的参数是[0.]
+Iter=1|operator=['IIIZIIII']｜Distance=8.0
+当前的算符是['IIZZIIII']|当前的参数是[0.]
+Iter=1|operator=['IIZZIIII']｜Distance=8.0
+当前的算符是['ZIIIIIII']|当前的参数是[0.]
+Iter=1|operator=['ZIIIIIII']｜Distance=8.0
+当前的算符是['IZIIIIII']|当前的参数是[0.]
+Iter=1|operator=['IZIIIIII']｜Distance=8.0
+当前的算符是['ZZIIIIII']|当前的参数是[0.]
+Iter=1|operator=['ZZIIIIII']｜Distance=8.0
+迭代1完成✅3 -th has been picked!Mclachlan Distance =6.000001999998661
+迭代1继续🔄!Mclachlan Distance =6.000001999998661/0.01
+本时间步长内的第2次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIYZY']｜Distance=6.000001999998656
+当前的算符是['IIIIIXZX']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIXZX']｜Distance=6.000001999998658
+当前的算符是['IIIYZYII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIYZYII']｜Distance=6.000000999887222
+当前的算符是['IIIXZXII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIXZXII']｜Distance=6.000000999887222
+当前的算符是['IYZYIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IYZYIIII']｜Distance=6.000001999998658
+当前的算符是['IXZXIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IXZXIIII']｜Distance=6.000001999998658
+当前的算符是['IYZZZZZY']|当前的参数是[0. 0.]
+Iter=2|operator=['IYZZZZZY']｜Distance=4.000003999997327
+当前的算符是['IXZZZZZX']|当前的参数是[0. 0.]
+Iter=2|operator=['IXZZZZZX']｜Distance=4.000003999997327
+当前的算符是['IIIIYZYI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIYZYI']｜Distance=6.000001999998658
+当前的算符是['IIIIXZXI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIXZXI']｜Distance=6.000001999998658
+当前的算符是['IIYZYIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIYZYIII']｜Distance=4.000003999997327
+当前的算符是['IIXZXIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIXZXIII']｜Distance=4.000003999997327
+当前的算符是['YZYIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['YZYIIIII']｜Distance=6.000001999998658
+当前的算符是['XZXIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['XZXIIIII']｜Distance=6.000001999998658
+当前的算符是['YZZZZZYI']|当前的参数是[0. 0.]
+Iter=2|operator=['YZZZZZYI']｜Distance=4.000003999997327
+当前的算符是['XZZZZZXI']|当前的参数是[0. 0.]
+Iter=2|operator=['XZZZZZXI']｜Distance=4.000003999997327
+当前的算符是['IIIIIIZI']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIZI']｜Distance=6.000001999998661
+当前的算符是['IIIIIIIZ']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIIZ']｜Distance=6.000001999998661
+当前的算符是['IIIIIIZZ']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIIZZ']｜Distance=6.000001999998661
+当前的算符是['IIIIZIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIZIII']｜Distance=6.000001999998661
+当前的算符是['IIIIIZII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIIZII']｜Distance=6.000001999998661
+当前的算符是['IIIIZZII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIIZZII']｜Distance=6.000001999998661
+当前的算符是['IIZIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIZIIIII']｜Distance=6.000001999998661
+当前的算符是['IIIZIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIIZIIII']｜Distance=6.000001999998661
+当前的算符是['IIZZIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IIZZIIII']｜Distance=6.000001999998661
+当前的算符是['ZIIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['ZIIIIIII']｜Distance=6.000001999998661
+当前的算符是['IZIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['IZIIIIII']｜Distance=6.000001999998661
+当前的算符是['ZZIIIIII']|当前的参数是[0. 0.]
+Iter=2|operator=['ZZIIIIII']｜Distance=6.000001999998661
+迭代2完成✅7 -th has been picked!Mclachlan Distance =4.000003999997327
+迭代2继续🔄!Mclachlan Distance =4.000003999997327/0.01
+本时间步长内的第3次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIYZY']｜Distance=4.000003999997324
+当前的算符是['IIIIIXZX']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIXZX']｜Distance=4.000003999997324
+当前的算符是['IIIYZYII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIYZYII']｜Distance=4.000003000002302
+当前的算符是['IIIXZXII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIXZXII']｜Distance=4.000003000002302
+当前的算符是['IYZYIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IYZYIIII']｜Distance=4.000003999997324
+当前的算符是['IXZXIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IXZXIIII']｜Distance=4.000003999997324
+当前的算符是['IYZZZZZY']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IYZZZZZY']｜Distance=4.000003000118717
+当前的算符是['IXZZZZZX']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IXZZZZZX']｜Distance=4.000003000002302
+当前的算符是['IIIIYZYI']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIYZYI']｜Distance=4.000003999997323
+当前的算符是['IIIIXZXI']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIXZXI']｜Distance=4.000003999997324
+当前的算符是['IIYZYIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIYZYIII']｜Distance=2.0000059999959934
+当前的算符是['IIXZXIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIXZXIII']｜Distance=2.0000059999959934
+当前的算符是['YZYIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['YZYIIIII']｜Distance=4.000003999997324
+当前的算符是['XZXIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['XZXIIIII']｜Distance=4.000003999997324
+当前的算符是['YZZZZZYI']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['YZZZZZYI']｜Distance=2.0000059999959943
+当前的算符是['XZZZZZXI']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['XZZZZZXI']｜Distance=2.0000059999959943
+当前的算符是['IIIIIIZI']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIIZI']｜Distance=4.000003999997327
+当前的算符是['IIIIIIIZ']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIIIZ']｜Distance=4.000003999997327
+当前的算符是['IIIIIIZZ']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIIZZ']｜Distance=4.000003999997327
+当前的算符是['IIIIZIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIZIII']｜Distance=4.000003999997327
+当前的算符是['IIIIIZII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIIZII']｜Distance=4.000003999997327
+当前的算符是['IIIIZZII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIIZZII']｜Distance=4.000003999997327
+当前的算符是['IIZIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIZIIIII']｜Distance=4.000003999997327
+当前的算符是['IIIZIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIIZIIII']｜Distance=4.000003999997327
+当前的算符是['IIZZIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IIZZIIII']｜Distance=4.000003999997327
+当前的算符是['ZIIIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['ZIIIIIII']｜Distance=4.000003999997327
+当前的算符是['IZIIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['IZIIIIII']｜Distance=4.000003999997327
+当前的算符是['ZZIIIIII']|当前的参数是[0. 0. 0.]
+Iter=3|operator=['ZZIIIIII']｜Distance=4.000003999997327
+迭代3完成✅11 -th has been picked!Mclachlan Distance =2.0000059999959934
+迭代3继续🔄!Mclachlan Distance =2.0000059999959934/0.01
+本时间步长内的第4次迭代
+当前的算符是['IIIIIYZY']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIYZY']｜Distance=2.0000059999959934
+当前的算符是['IIIIIXZX']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIXZX']｜Distance=2.0000059999959934
+当前的算符是['IIIYZYII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIYZYII']｜Distance=2.000005000000974
+当前的算符是['IIIXZXII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIXZXII']｜Distance=2.0000050000009724
+当前的算符是['IYZYIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IYZYIIII']｜Distance=2.0000059999959934
+当前的算符是['IXZXIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IXZXIIII']｜Distance=2.0000059999959934
+当前的算符是['IYZZZZZY']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IYZZZZZY']｜Distance=2.0000050001173877
+当前的算符是['IXZZZZZX']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IXZZZZZX']｜Distance=2.0000050000009724
+当前的算符是['IIIIYZYI']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIYZYI']｜Distance=2.0000059999959934
+当前的算符是['IIIIXZXI']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIXZXI']｜Distance=2.0000059999959943
+当前的算符是['IIYZYIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIYZYIII']｜Distance=2.0000050000009724
+当前的算符是['IIXZXIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIXZXIII']｜Distance=2.000004999884557
+当前的算符是['YZYIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['YZYIIIII']｜Distance=2.0000059999959943
+当前的算符是['XZXIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['XZXIIIII']｜Distance=2.0000059999959943
+当前的算符是['YZZZZZYI']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['YZZZZZYI']｜Distance=7.999994661389564e-06
+当前的算符是['XZZZZZXI']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['XZZZZZXI']｜Distance=7.999994662277743e-06
+当前的算符是['IIIIIIZI']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIIZI']｜Distance=2.0000059999959934
+当前的算符是['IIIIIIIZ']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIIIZ']｜Distance=2.0000059999959934
+当前的算符是['IIIIIIZZ']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIIZZ']｜Distance=2.0000059999959934
+当前的算符是['IIIIZIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIZIII']｜Distance=2.0000059999959934
+当前的算符是['IIIIIZII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIIZII']｜Distance=2.0000059999959934
+当前的算符是['IIIIZZII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIIZZII']｜Distance=2.0000059999959934
+当前的算符是['IIZIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIZIIIII']｜Distance=2.0000059999959934
+当前的算符是['IIIZIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIIZIIII']｜Distance=2.0000059999959934
+当前的算符是['IIZZIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IIZZIIII']｜Distance=2.0000059999959934
+当前的算符是['ZIIIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['ZIIIIIII']｜Distance=2.0000059999959934
+当前的算符是['IZIIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['IZIIIIII']｜Distance=2.0000059999959934
+当前的算符是['ZZIIIIII']|当前的参数是[0. 0. 0. 0.]
+Iter=4|operator=['ZZIIIIII']｜Distance=2.0000059999959934
+迭代4完成✅15 -th has been picked!Mclachlan Distance =7.999994661389564e-06
+迭代4结束✅!Mclachlan Distance =7.999994661389564e-06/0.01|满足停止要求😉
+本次的时间步长是=0.01|最大变化值=0.9999991666671868
+时间步长已经更新=0.05|0.30000025000005226
+本次时间步长结束｜共选取4个算符:[2, 6, 10, 14]｜最优参数为[-0.00999999 -0.00999999 -0.00999999 -0.00999999]｜Mclachlan Distance=7.999994661389564e-06
+|瞬时精确能量=0.20000000000000007|瞬时变分能量=0.19996000539969772|瞬时能量误差=-3.9994600302351024e-05|精确与变分态重合度=0.9999999999000161

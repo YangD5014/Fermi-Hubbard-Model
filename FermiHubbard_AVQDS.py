@@ -3,7 +3,6 @@ from qiskit.circuit.library import EvolvedOperatorAnsatz,StatePreparation
 from qiskit.quantum_info import Statevector
 from qiskit.quantum_info.operators import SparsePauliOp
 from qiskit_nature.second_q.hamiltonians import Hamiltonian
-from qiskit_nature.second_q.hamiltonians.lattices import LineLattice,BoundaryCondition
 from qiskit.quantum_info import Statevector
 import datetime
 import os
@@ -12,6 +11,7 @@ import pickle
 formatted_now = datetime.datetime.now().strftime("%m-%d %H:%M")
 from qiskit.primitives.estimator import Estimator
 from FermiHubbard_model import Fermi_Hubbard
+from HW_FermiHubbard import FermiHubbard
 from MLVP_tool import Mclachlan_distance,M,V,AVQDS_optimize_value,Energy_Distance,McLachlan_distance_optimize,AVQDS_optimize_value_new,get_minv
 import scipy.linalg
 import numpy as np
@@ -20,20 +20,16 @@ import logging
 
 
 class FH_AVQDS():
-    def __init__(self,EndTime:float,N_site:int,U:float,J:float,Boundary:BoundaryCondition,Initial_circuit:QuantumCircuit,TimeStep: float=0.005,Threshold: float=1e-3,max_add:int=2,max_theta:float=0.005,dt_max:float=0.02) -> None:
+    def __init__(self,EndTime:float,N_site:int,U:float,J:float,Initial_circuit:QuantumCircuit,TimeStep: float=0.005,Threshold: float=1e-3,max_add:int=2,max_theta:float=0.005,dt_max:float=0.02) -> None:
         self.N_site = N_site
         self.U = U
         self.J = J
         self.initial_state_circuit = Initial_circuit
-        self.Hamiltonian_initial = Fermi_Hubbard(Ms=self.N_site,U=self.U,J=self.J,BoundaryCondition=Boundary).Hamiltonian
+        #self.Hamiltonian_initial = FermiHubbard(N_site=self.N_site,U=self.U,J=self.J).QubitOp_Hamiltonian
+        self.Hamiltonian_initial = Fermi_Hubbard(Ms=self.N_site,U=self.U,J=self.J).Hamiltonian
         self.H = self.Hamiltonian_initial
         self.n_qubit = self.Hamiltonian_initial.num_qubits
-        # print('开始计算基态能量')
-        # eignvalue,vector = np.linalg.eigh(self.Hamiltonian_initial.to_matrix())
-        # print('计算基态能量完毕')
-        # self.start_en=eignvalue[0]
         self.initial_state = self.initial_state_circuit.to_instruction(label='Initial')
-        #del self.initial_state_circuit
         self.estimator = Estimator()
         
         self.timestep = TimeStep
